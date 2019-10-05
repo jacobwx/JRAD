@@ -1,2 +1,2 @@
 # JRAD
-GRAnalyst placefile mapping real-time flight data via OpenSky Network API
+GRLevelX placefile mapping real-time flight data via OpenSky Network API
